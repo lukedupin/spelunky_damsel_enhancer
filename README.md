@@ -3,9 +3,9 @@ Only for linux.  Gives you extra hearts for rescuing the damsel
 
 # Compile and run
 
-qmake
-make
-sudo ./Spelunky [pid]
+    qmake
+    make
+    sudo ./Spelunky [pid]
 
 # Usage
 
